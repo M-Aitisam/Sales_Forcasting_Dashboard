@@ -1,8 +1,8 @@
 pandas>=2.1.0
 numpy>=1.26.0
-scikit-learn>=1.3.0
-matplotlib>=3.8.0
-seaborn>=0.13.0
-joblib>=1.3.0
-holidays>=0.28
-python-dotenv>=1.0.0
+scikit-learn
+matplotlib
+seaborn
+joblib
+holidays
+python-dotenv
